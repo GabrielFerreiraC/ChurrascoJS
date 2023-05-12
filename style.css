@@ -11,6 +11,13 @@ body{
 
 }
 
+h1, h2 {
+
+font-size: 34px;
+
+}
+
+
 .Botao{
     background-color: #000000;
     border: none;
